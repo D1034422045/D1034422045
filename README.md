@@ -14,7 +14,7 @@ Notion｜Discord｜Figma｜Miro
 ## 🚀 Featured Projects
 
 ### 【 行旅之境 - Realm of Journeys 】旅遊電商網
-- [GitHub Repo](https://github.com/Hailey-1025/realm-of-journeys)
+- [GitHub Repo](https://github.com/kayaribi/Realm_of_Journeys)
 - [GitHub Pages](https://hailey-1025.github.io/realm-of-journeys)
 - [後台管理頁面](https://hailey-1025.github.io/realm-of-journeys-admin)
 
