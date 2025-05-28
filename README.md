@@ -1,10 +1,14 @@
 # 你好，我是倫倫 (Alan)  👋
 
 ## 🔧 專業技術
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap5 Badge](https://img.shields.io/badge/-Bootstrap5-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![jquery Badge](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
-React｜JavaScript｜HTML｜Bootstrap 5｜Sass｜CSS
 
 ## 🛠 開發與版本控制
 Vite｜GitHub｜npm｜ESLint｜Axios
