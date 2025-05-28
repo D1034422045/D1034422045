@@ -11,7 +11,6 @@
 ![jquery Badge](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Swiper Badge](https://img.shields.io/badge/-Swiper-007aff?style=for-the-badge&logo=swiper&logoColor=white)
 
-
 ## 🛠 開發與版本控制
 ![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -28,7 +27,6 @@
 
 ## 💡 AI 與機器學習
 ![ChatGPT Badge](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
 
 ---
 
