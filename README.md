@@ -1,16 +1,33 @@
-## Hi there 👋
+# 你好，我是倫倫 (Alan)  👋
 
-<!--
-**D1034422045/D1034422045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 專業技術
+React｜JavaScript｜HTML｜Bootstrap 5｜Sass｜CSS
 
-Here are some ideas to get you started:
+## 🛠 開發與版本控制
+Vite｜GitHub｜npm｜ESLint｜Axios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 設計與協作工具
+Notion｜Discord｜Figma｜Miro
+
+---
+
+## 🚀 Featured Projects
+
+### 【 行旅之境 - Realm of Journeys 】旅遊電商網
+- [GitHub Repo](https://github.com/Hailey-1025/realm-of-journeys)
+- [GitHub Pages](https://hailey-1025.github.io/realm-of-journeys)
+- [後台管理頁面](https://hailey-1025.github.io/realm-of-journeys-admin)
+
+---
+
+### 【 JO團趣 】預約系統
+- [GitHub Repo](https://github.com/Hailey-1025/jo-booking)
+- [GitHub Pages](https://hailey-1025.github.io/jo-booking)
+
+---
+
+### 【 平安旅人 】旅遊資訊 App
+- [GitHub Repo](https://github.com/Hailey-1025/safe-traveler)
+- [GitHub Pages](https://hailey-1025.github.io/safe-traveler)
+
+---
