@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 技術專案
 
 ### 【 行旅之境 - Realm of Journeys 】旅遊電商網
 - [GitHub Repo](https://github.com/kayaribi/Realm_of_Journeys)
